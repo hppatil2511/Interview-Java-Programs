@@ -33,3 +33,10 @@ public class Reverse_Words_Of_Sentense {
 	}
 
 }
+
+/*
+ 
+ 
+ String is ---  ym eman si hsrah
+ 
+*/
