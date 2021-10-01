@@ -11,4 +11,8 @@ public class How_Many_Times_Man_Word_in_String {
 	}
 	}
 
-
+/*
+ 
+ Output :4
+ 
+ */ 
