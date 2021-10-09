@@ -27,7 +27,7 @@ public class Reverse_String_Pallindrome {
 		}
 	}
 
-		
+	
 		
 	}
 
